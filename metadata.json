@@ -1,0 +1,6 @@
+{
+  "name": "La Perseverance - Gestion Scolaire",
+  "description": "Système de gestion scolaire complet pour le Complexe Scolaire Privé La Persévérance : gestion des élèves, attestations et certificats de scolarité officiels A4 avec registre, affiches et avis scolaires, saisie des notes, bulletins officiels PDF, modèles de convocations de parents, modèles de sujets d'évaluations (examens, devoirs, interrogations) avec importation, suivi financier et historique détaillé des paiements par élève avec diagnostic des échéances non respectées et emplois du temps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
