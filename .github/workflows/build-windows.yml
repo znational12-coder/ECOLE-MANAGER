@@ -18,10 +18,10 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 22
-          cache: npm
+          package-manager-cache: false
 
       - name: Installer les dépendances
-        run: npm ci
+        run: npm install
 
       - name: Contrôle du projet
         run: npm run release-preflight
